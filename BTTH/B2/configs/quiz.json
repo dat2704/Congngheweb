@@ -1,0 +1,42 @@
+[
+    {
+        "question": "1. Thành phần nào sau đây KHÔNG phải là một thành phần giao diện người dùng (UI) trong Android?\r",
+        "choices": [
+            "A. TextView",
+            "B. Button",
+            "C. Service",
+            "D. ImageView"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "2. Layout nào thường được sử dụng để sắp xếp các thành phần UI theo chiều dọc hoặc chiều ngang?\r",
+        "choices": [
+            "A. RelativeLayout",
+            "B. LinearLayout",
+            "C. FrameLayout",
+            "D. ConstraintLayout"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "3. Intent trong Android được sử dụng để làm gì?\r",
+        "choices": [
+            "A. Hiển thị thông báo cho người dùng.",
+            "B. Lưu trữ dữ liệu.",
+            "C. Khởi chạy Activity.",
+            "D. Xử lý sự kiện chạm."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "4. Vòng đời của một Activity bắt đầu bằng phương thức nào?\r",
+        "choices": [
+            "A. onStart()",
+            "B. onResume()",
+            "C. onCreate()",
+            "D. onPause()"
+        ],
+        "answer": "C"
+    }
+]
