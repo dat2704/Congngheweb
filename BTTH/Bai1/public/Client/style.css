@@ -1,0 +1,43 @@
+body{
+    background-color: linear-gradient(to right, #FEC5E6, #DEB5D7);
+    background: #5D7B6F;
+}
+.title_header{
+    text-align: center;
+    padding: 30px 0 30px 0;
+    font-weight: 500;
+    color: #D7F9FA;
+}
+.flower_item{
+    margin-bottom: 30px;
+}
+.flower-list .card-header h3{
+    color: #5D7B6F;
+    font-weight: 400;
+    font-size: 30px;
+    text-align: center;
+}
+.flower-list .card-body img{
+    height: 150px;
+    width: auto;
+    object-fit: contain;
+}
+.flower-list .card-body{
+    display: flex;
+    justify-content: center;
+}
+.flower-list .card-footer p{
+    width: auto;
+    overflow: hidden;
+    white-space: nowrap; 
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 3;
+}
+
+.footer{
+    padding: 25px 0 25px 0;
+    background: #D7F9FA;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
